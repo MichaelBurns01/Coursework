@@ -1,1 +1,1 @@
-# My Coursework from West Chester University B.S. Computer Science.
+# Core Coursework from West Chester University B.S. Computer Science.
